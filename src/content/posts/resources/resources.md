@@ -9,8 +9,7 @@ draft: false
 
 ## 數學
 
-[3b1b](https://www.youtube.com/c/3blue1brown)
-
+[3b1b](https://www.youtube.com/c/3blue1brown)  
 [漫士沉思錄](https://www.youtube.com/@manshi_math)
 
 [章耕魚](https://www.youtube.com/@octopuskeng)
