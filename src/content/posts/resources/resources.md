@@ -35,7 +35,7 @@ draft: false
 [東方王](https://www.youtube.com/@imeasternking)  
 [HHSH ShrimpScience](https://www.youtube.com/@JHSNUShrimpScience)
 
-[化奧資源](https://www.threads.com/share/BAXvQQpXno/)
+[化奧資源](https://www.threads.com/share/BAXvQQpXno/)  
 [Clayden Organic Chemistry 翻譯版](https://drive.google.com/file/d/1pDGTvJj8kBEH3CLGPZddhmKCSsFdSUB7/view?usp=drivesdk)  
 [Evans' Advanced Organic Chemistry 翻譯版](https://drive.google.com/file/d/1nN3bCOeLpOT5tyZfMA9d9YS1fXKGFvzk/view?usp=drivesdk)  
 [宋天佑無機化學](https://drive.google.com/drive/folders/1d8rAfTNsl7pz-9Ey7RqOtFcXpVi_sQu2?usp=drive_link)
